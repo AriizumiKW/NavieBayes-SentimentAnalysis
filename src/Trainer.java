@@ -7,7 +7,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.HashMap;
 
-public class Main{
+public class Trainer{
 	static BufferedReader positiveReader;
 	static BufferedReader negativeReader;
 	static FileWriter positiveFileWriter;

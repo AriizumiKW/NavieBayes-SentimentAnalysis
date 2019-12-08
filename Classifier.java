@@ -5,7 +5,8 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.io.Reader;
 
-public class Main{
+// positive or negative classifier demo code
+public class Classifier{
 	public static BufferedReader reader;
 	public static FileWriter positiveWriter;
 	public static FileWriter negativeWriter;

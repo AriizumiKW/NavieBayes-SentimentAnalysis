@@ -39,8 +39,8 @@ public class Tester {
 			if(nextLine==null||nextLine=="") {break;}
 			
 			String tag = nextLine.split(",")[1];
-			nextLine = Main.wordFilter(nextLine);
-			String[] wordsList = Main.wordSplit(nextLine);
+			nextLine = Trainer.wordFilter(nextLine);
+			String[] wordsList = Trainer.wordSplit(nextLine);
 			compareLikelihood(1, 1, wordsList, Integer.parseInt(tag));
 		}
 		
