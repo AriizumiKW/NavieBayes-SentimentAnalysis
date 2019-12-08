@@ -16,3 +16,6 @@ How to use the data set?
       
 Something you should know:   
 Those data is coming from Twitter. But, twitter is more likely to use punctuation (!,?,...) to express and usually it not conform to  grammatical rules. To make the Bayesian Model more precisely, you may consider the sentence structure and some other features.
+
+Data set download link given:   
+[Twitter Sentiment Analysis Training Corpus (Dataset)](http://thinknook.com/twitter-sentiment-analysis-training-corpus-dataset-2012-09-22/)
