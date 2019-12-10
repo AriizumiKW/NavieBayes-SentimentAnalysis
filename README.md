@@ -1,6 +1,6 @@
 # NavieBayes-SentimentAnalysis
 A Navie Navie-Bayes    
-一个很朴素的朴素贝叶斯用户情绪分析器
+一个很朴素的朴素贝叶斯用户情绪分析器（Big Data）
 
 The training set and testing set is from：   
 [——University of Michigan Sentiment Analysis competition on Kaggle](https://www.kaggle.com/)   
