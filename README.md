@@ -6,8 +6,8 @@ The training set and testing set is from：
 [——University of Michigan Sentiment Analysis competition on Kaggle](https://www.kaggle.com/)   
 [——Twitter Sentiment Corpus by Niek Sanders](http://www.sananalytics.com/lab/twitter-sentiment/)    
 
-This code written for fun. Only with 75% success rate. 
-我写着玩的。成功率75%左右，你们随意看看。
+Only with 75% success rate. 
+成功率75%左右。
 
 How to use the data set?   
 1. The data set contains 1,578,627 classified tweets. I choose 100,000 of them to be testing set, and the rest to be traing set.
